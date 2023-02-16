@@ -1,0 +1,55 @@
+header {
+
+  font-family: serif;
+  text-align: center;
+  margin:0px;
+  
+  
+}
+
+hr{
+  border-width: 5px;
+}
+
+body, h1 h2 {
+  margin:0px
+  font-family: monospace;
+}
+
+
+h1 {
+  text-transform: uppercase;
+}
+
+body {
+  border: 2px solid;
+  border-color: royalblue pink royalblue pink;
+  border-width:20px;
+  border-style: inset;
+}
+body,h1,h2,h3,p,ol,ul {
+  text-shadow: 5px 5px 8px;
+  color: aquamarine;text-emphasis-style; strong;
+}
+
+h3{
+  background-color: (aquamarine);
+  color: aquamarine; 
+  font-family: serif;
+  text-align: center;
+  margin:0px;
+}
+
+p{
+  background-color: (aquamarine);
+  color: aquamarine; 
+  font-family: serif;
+  text-align: center;
+  margin:0px;
+}
+
+
+
+body{
+  background-image: url("https://wallpapercave.com/wp/wp11687989.jpg");
+}
